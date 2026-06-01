@@ -38,22 +38,16 @@ nav .container{
 }
 
 .hero{
-    height:500px;
-    background:linear-gradient(
-        rgba(0,0,0,0.5),
-        rgba(0,0,0,0.5)
+    height:650px;
+    background:
+    linear-gradient(
+        rgba(0,0,0,.5),
+        rgba(0,0,0,.5)
     ),
-    url("foto1.jpg");
+    url("banner.jpg");
 
     background-size:cover;
     background-position:center;
-
-    display:flex;
-    justify-content:center;
-    align-items:center;
-
-    text-align:center;
-    color:white;
 }
 
 .hero-content h1{
