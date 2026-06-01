@@ -43,3 +43,9 @@ footer {
     width: 120px;
     border-radius: 10px;
 }
+.galeri {
+    width: 100%;
+    max-width: 280px;
+    margin: 10px;
+    border-radius: 10px;
+}
